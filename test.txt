@@ -1,0 +1,27 @@
+//html tags used
+1. main tag => directly (or) another div as main div
+2. input box div
+3. user chat div
+4. bot chat div  
+
+
+function going to be created and called
+
+//interface
+1. dxiUserChatInterface(textColor, borderColor); => will update a variable
+2. dxiBotChatInterface(textColor, borderColor); => will update a variable
+
+//chatbox
+1. dxiUserChat(user chat String);        => pass the user string
+2. dxiBotChat(user chat String);         => pass the bot string
+
+//interface for the main page
+1. dxiCreateMainInterface(backgroundcolor); => Will create the chatBox and also color play
+2. dxiCreateInputBox(boxcolor, boxdotcolor);
+
+// Create all these seperately in as a module ...
+// Call these methods and create interface using these functions ...
+... and then trigger the function by clicking a button
+
+//Let the triggered function create a railway ticket booking interface
+
